@@ -25,7 +25,7 @@ repositories:
 
 website: "https://krkn-chaos.github.io/krkn"
 
-artwork: "https://landscape.cncf.io/logos/krkn.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/krkn"
 
 adopters:
   path: "https://github.com/krkn-chaos/krkn/blob/main/ADOPTERS.md"
